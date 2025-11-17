@@ -1,0 +1,30 @@
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.nav-header a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-header ul{
+display: flex;
+list-style: none;
+align-items: center;
+justify-content: center;
+gap: 50px;
+}
+
+header h1{
+    font-size: 50px;
+
+}
+
+header span{
+    color: #FF00EE;
+}
