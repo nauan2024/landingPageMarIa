@@ -11,8 +11,7 @@ main {
     align-items: center;
     justify-content: center;
     padding-top: 80px;
-    background: linear-gradient(180deg, #8666BE 0%, #DED8E9 62%);
-    box-shadow: inset 0px 10px 30px 10px rgba(14, 3, 36, 0.41);
+    background: linear-gradient(180deg, #D7BFFF 0%, #FFFFFF 62%);
     padding-bottom: 50px;
 }
 
@@ -25,7 +24,7 @@ main {
 
 .mainLeft h2 {
     font-size: 46px;
-    color: #1F2F6D;
+    color: #660089;
     padding-bottom: 30px;
 }
 
@@ -33,7 +32,7 @@ main {
     font-size: 40px;
     padding-bottom: 60px;
     width: 580px;
-    color: white;
+    color: #9E49BB;
     line-height: 70px;
 }
 
