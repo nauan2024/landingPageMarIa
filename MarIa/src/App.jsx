@@ -1,6 +1,6 @@
-import { Cards } from "./assets/components/layouts/cards"
-import { Header } from "./assets/components/layouts/header"
-import { Main } from "./assets/components/layouts/main"
+import { Cards } from "./components/layouts/cards"
+import { Header } from "./components/layouts/header"
+import { Main } from "./components/layouts/main"
 
 function App() {
  

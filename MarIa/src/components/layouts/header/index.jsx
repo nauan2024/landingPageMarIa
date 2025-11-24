@@ -1,4 +1,4 @@
-import avatarMarIa from '../../../images/avatarMarIa.svg';
+import avatarMarIa from '../../../assets/images/avatarMarIa.svg';
 import './style.css';
 
 export const Header = () => {

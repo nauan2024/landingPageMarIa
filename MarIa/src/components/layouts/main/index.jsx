@@ -1,4 +1,4 @@
-import corujitaMain from '../../../images/corujitaMain.svg'
+import corujitaMain from '../../../assets/images/corujitaMain.svg'
 import './style.css'
 
 export const Main = () =>{
