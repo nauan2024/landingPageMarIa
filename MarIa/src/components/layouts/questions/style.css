@@ -1,0 +1,35 @@
+@import url(../../../index.css);
+
+.questions-space {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 34px 158px;
+    background-color:  #300136;
+    gap: 102px;
+}
+
+.content-up-questions {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 484px;
+    color: aliceblue;
+    gap: 17px;
+    
+}
+ 
+.content-up-questions h2 {
+    font-size: 38px;
+    font-weight: 200;
+}
+
+.content-up-questions p {
+    color: var(--color-neutral-gray);
+    text-align: center;
+    font-size: 15px;
+}
+
+.content-up-questions h2 span{
+    color: var(--color-pink);
+}

@@ -1,0 +1,14 @@
+@import url(../../../index.css);
+
+.card_question {
+    display: flex;
+    width: 900px;
+    justify-content: space-between;
+    color: var(--color-neutral-white);
+    background-color: var(--color-black);
+    padding: 28px 25px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: var(--font-family-poppins) ;
+    border-bottom: 1px solid var(--color-neutral-gray);
+}

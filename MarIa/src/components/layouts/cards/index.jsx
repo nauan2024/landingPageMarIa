@@ -38,7 +38,6 @@ export const Cards = () => {
                     <p>Gráficos minimalistas, em pixel art artesanal.</p>
                     </div>
                 </div>
-              
             </div>
 
 
