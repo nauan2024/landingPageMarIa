@@ -1,7 +1,7 @@
 import './style.css'
 import imgstars from "../../../assets/images/stars.svg"
 
-export const SobreNos = () => {
+export const Aboutus = () => {
     return (
         <section className='container-info'>
             <div className='content-info'>

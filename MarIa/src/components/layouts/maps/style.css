@@ -1,0 +1,45 @@
+.container-maps {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 130px 54px;
+    background-color: black;
+
+}
+
+.container-maps h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 46px;
+    color: white;
+}
+
+.content-maps {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: #43014C;
+    padding: 108px 150px;
+    border-radius: 20px;
+}
+
+
+
+
+.container-maps span {
+    color: #B249AB;
+    margin-left: 10px;
+}
+
+.group-img {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.group-img img {
+    width: 200px;
+    height: 200px;
+}
