@@ -3,7 +3,7 @@
 .doubleCard {
     display: flex;
     flex-direction: column;
-    width: 362px;
+    width: 350px;
     height: 254px;
     background-color: var(--color-secondary-purple);
     border-radius: 25px;
