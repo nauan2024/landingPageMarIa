@@ -7,7 +7,7 @@ MarIa oferece uma experiência moderna e prática de uma apresentação de jogo 
 
 ---
 
-![Web1](https://github.com/)
+![Web1](https://github.com/nauan2024/landingPageMarIa/blob/main/MarIa/src/assets/images/corujitaMain.svg)
 
 ## 📦 Tecnologias Utilizadas
 
