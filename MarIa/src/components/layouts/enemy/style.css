@@ -18,8 +18,18 @@
 .enemyssection h2 span {
     color: var(--color-green);
 }
-.container-img-enemy{
+.contaenemyiner-img-{
     display: flex;
     justify-content: center;
     gap: 150px;
+}
+
+@media (max-width: 430px){
+    .enemyssection h2{
+        width: 350px;
+        text-align: center;
+    }
+    .contaenemyiner-img-{
+     flex-direction: column;
+    }
 }
