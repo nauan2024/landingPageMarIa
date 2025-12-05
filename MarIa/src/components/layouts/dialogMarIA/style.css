@@ -5,4 +5,41 @@
     justify-content: center;
     background-color: var(--color-purple);
     padding: 100px;
+    position: relative;
+}
+
+.imgmap {
+    width: 705px;
+}
+
+.MariaHabla {
+    position: absolute;
+    left: 50px;
+    bottom: 40px;
+    width: 301px;
+}
+
+.ballon {
+    position: absolute;
+    left: 270px;
+    bottom: 200px;
+    width: 301px;
+}
+
+@media (max-width: 430px) {
+    .sectionDialog {
+        height: 500px;
+    }
+
+    .MariaHabla {
+        width: 201px;
+        left: 0;
+        bottom: 90;
+    }
+
+    .ballon {
+        width: 151px;
+        left: 130px;
+        bottom: 150px;
+    }
 }

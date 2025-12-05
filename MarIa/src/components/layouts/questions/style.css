@@ -33,3 +33,9 @@
 .content-up-questions h2 span{
     color: var(--color-pink);
 }
+
+@media(max-width: 430px){
+    .content-up-questions{
+        width: 350px;
+    }
+}
