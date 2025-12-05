@@ -1,59 +1,49 @@
-<h1 align="center">MarIa</h1>
+<h1 align="center">🦉 MarIa</h1>
 
 <p align="center">
-🚀 LandingPage feita em <strong>React </strong>, utilizando <strong>Style css</strong> para estilização.
-MarIa oferece uma experiência moderna e prática de uma apresentação de jogo mobile.
+  <img src="https://github.com/nauan2024/landingPageMarIa/blob/main/MarIa/src/assets/images/corujitaMain.svg" alt="Logo MarIa" width="200"/>
+</p>
+
+<p align="center">
+  <strong>Gamificação e Reciclagem unidas em uma experiência única.</strong>
+</p>
+
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-estrutura">Estrutura</a> •
+  <a href="#-como-rodar">Como Rodar</a> •
+  <a href="#-autores">Autores</a>
 </p>
 
 ---
 
-![Web1](https://github.com/nauan2024/landingPageMarIa/blob/main/MarIa/src/assets/images/corujitaMain.svg)
+## 📄 Sobre o Projeto
+
+**MarIa** é uma Landing Page desenvolvida para apresentar um jogo mobile inovador focado na **educação ambiental**. O projeto utiliza conceitos de **gamificação** para incentivar a reciclagem e a conscientização ecológica de forma divertida e interativa.
+
+Esta página web serve como porta de entrada para o aplicativo, demonstrando suas funcionalidades, personagens e proposta de valor.
+
+---
 
 ## 📦 Tecnologias Utilizadas
 
-- ⚛️ **React** – Framework para desenvolvimento.    
-- 💛 **JavaScript (ES6+)** – Linguagem principal do projeto.  
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+-   ⚛️ **[React](https://reactjs.org/)** – Biblioteca para construção da interface.
+-   💛 **[JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)** – Lógica e interatividade.
+-   🚀 **Vite** (ou Create React App) – Ferramenta de build.
 
 ---
-
 
 ## 📁 Estrutura do Projeto
 
-- src
-- components
-- layouts
- - assets
+A estrutura de pastas está organizada da seguinte forma:
 
-
----
-
-## 🚀 Como Rodar o Projeto
-
-### 1️⃣ Clonar o Repositório
-
-```
-git clone https://github.com/BiellNonato/ParkingZ.git
-
-```
-2️⃣ Instalar as Dependências
-```
-cd ParkingZ
-npm installl
-
-```
-3️⃣ Rodar o Projeto
-```
-npx expo start
-
-```
-
-
-```
-🧑‍💻 Autor
-Nauan de dados
-Gabriel Pereira Lopes
-Nycole 
-<br/>
-
-📝 Licença
-Este projeto está sob a licença MIT.
+```bash
+MarIa/
+├── src/
+│   ├── assets/        # Imagens, ícones e vetores (ex: corujitaMain.svg)
+│   ├── components/layouts    # Componentes reutilizáveis (Botões, Cards, Header) / # Estruturas de página e containers
+│   └── App.jsx        # Componente principal
+└── package.json
