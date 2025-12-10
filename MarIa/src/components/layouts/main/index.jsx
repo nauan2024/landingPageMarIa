@@ -11,7 +11,7 @@ export const Main = () => {
                     <a href="">Download</a>
                 </div>
             </div>
-            <img src={corujitaMain} alt="" />
+            <img src={corujitaMain} alt="" loading='lazy'/>
         </main>
     );
 };

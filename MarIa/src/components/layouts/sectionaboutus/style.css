@@ -46,7 +46,7 @@
 @media (max-width: 430px) {
    .content-info{
     text-align: center;
-    width: 380px;
+    width: 360px;
    }
 
    .content-info h2{
@@ -62,7 +62,7 @@
    }
 
    .content-info img{
-    left: 30vh;
+    left: 10VH;
     width: 200px;
    }
 }

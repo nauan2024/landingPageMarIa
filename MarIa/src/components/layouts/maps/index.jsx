@@ -11,9 +11,9 @@ export const Maps = () => {
             <article className='content-maps'>
                 <img src={imgBeach} alt="" />
                 <div className="group-img">
-                    <img src={imgBeach} alt="" />
-                    <img src={imgForest} alt="" />
-                    <img src={img} alt="" />
+                    <img src={imgBeach} alt="" loading='lazy'/>
+                    <img src={imgForest} alt="" loading='lazy'/>
+                    <img src={img} alt="" loading='lazy'/>
                 </div>
             </article>
         </section>
