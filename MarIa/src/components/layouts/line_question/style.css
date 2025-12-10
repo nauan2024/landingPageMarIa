@@ -21,6 +21,7 @@
     cursor: pointer; /* Mãozinha ao passar o mouse */
     transition: background-color 0.3s ease;
 }
+}
 
 .card-pergunta:hover {
     background-color: #1f1f1f; /* Efeito visual opcional ao passar o mouse */
@@ -49,7 +50,7 @@
     line-height: 1.5;
     animation: surgir 0.4s ease-in-out; /* Animação suave */
 }
-}
+
 
 /* Animação simples para a resposta deslizar */
 @keyframes surgir {
