@@ -5,7 +5,7 @@ import knowledgeIcon from '../../../assets/images/bookinthehand.svg';
 import { Cards_feature } from '../cards_feature';
 export const Cards = () => {
     return (
-        <section className='section-cards'>
+        <section className='section-cards' id='cards'>
 
             <h2>Features</h2>
 

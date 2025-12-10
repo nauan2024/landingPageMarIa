@@ -14,9 +14,9 @@ function App() {
     <>
 <Header/>
 <Main/>
-<Aboutus/>
-<Maps/>
-<Enemys/>
+<Aboutus />
+<Maps />
+<Enemys />
 <Cards/>
 <DialogMarIA/>
 <Questions_space/>

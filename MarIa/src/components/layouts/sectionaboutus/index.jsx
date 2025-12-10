@@ -3,7 +3,7 @@ import imgstars from "../../../assets/images/stars.svg"
 
 export const Aboutus = () => {
     return (
-        <section className='container-info'>
+        <section className='container-info' id='aboutus'>
             <div className='content-info'>
                 <img src={imgstars} alt="" loading='lazy'/>
                 <h2> Sobre nós</h2>

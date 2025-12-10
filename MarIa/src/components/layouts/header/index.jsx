@@ -31,10 +31,10 @@ export const Header = () => {
 
             <nav className={navClass} id="nav-menu-list">
                 <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Sobre nós</a></li>
-                    <li><a href="">Jogos</a></li>
-                    <li><a href="">Serviços</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="#aboutus">Sobre nós</a></li>
+                    <li><a href="#game">Jogos</a></li>
+                    <li><a href="#cards">Serviços</a></li>
                 </ul>
             </nav>
 

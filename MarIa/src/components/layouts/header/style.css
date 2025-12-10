@@ -15,6 +15,7 @@ header {
     justify-content: space-around;
     background-color: var(--color-purple);
     height: 90px;
+
 }
 
 .nav-header a {

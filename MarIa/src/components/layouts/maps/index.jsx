@@ -6,7 +6,7 @@ import './style.css'
 
 export const Maps = () => {
     return (
-        <section className='container-maps'>
+        <section className='container-maps' id="game">
             <h3>Mapas feitos em  <span>  Pixel art </span></h3>
             <article className='content-maps'>
                 <img src={imgBeach} alt="" />
