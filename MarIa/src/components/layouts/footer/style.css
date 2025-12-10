@@ -69,8 +69,7 @@ footer {
         flex-direction: column;
         gap: 30px;
         align-items: center;
-        padding: 58px 15px;
-
+        padding: 50px 15px;
     }
 
     .container-footer1 {
@@ -91,8 +90,8 @@ footer {
 
     .list-footer-content ul{
         display: flex;
-        flex-direction: row;
-        gap: 40px;
+        flex-direction: column;
+        gap: 20px;
     }
 
     .list-footer-content ul li a {
