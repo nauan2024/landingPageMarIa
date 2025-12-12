@@ -12,11 +12,13 @@
 header {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 211px;
     background-color: var(--color-purple);
     height: 90px;
-
 }
+
+
 
 .nav-header a {
     text-decoration: none;
