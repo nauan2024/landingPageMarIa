@@ -4,9 +4,9 @@ import android from "../../../assets/images/androidicon.svg"
 import LogoMarIA from "../../../assets/images/MarIA.svg"
 export const Footer = () => {
     return (
-         <footer>
+        <footer>
             <div className="container-footer1">
-                <img src={LogoMarIA} alt="" loading='lazy'/>
+                <img src={LogoMarIA} alt="" loading='lazy' />
                 <div className="list-footer-content">
                     <h2>Quick links</h2>
                     <ul>
@@ -34,10 +34,10 @@ export const Footer = () => {
                 </div>
             </div>
             <div className="container-footer2">
-                <button type="submit">
-                    <img src={android} alt="" loading='lazy'/>
+                <a href="/MarIA-v0.3.apk" download="MarIA-v0.3.apk" className="button-style">
+                    <img src={android} alt="" loading='lazy' />
                     Baixe agora
-                </button>
+                </a>
             </div>
         </footer>
     )

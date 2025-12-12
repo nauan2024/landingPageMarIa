@@ -5,9 +5,11 @@ import "./style.css"
 export const DialogMarIA = () => {
     return(
         <section className="sectionDialog">
-            <img className="imgmap" src={imgmap} alt="" loading="lazy"/>
-            <img className="MariaHabla" src={MariaHabla} alt="" loading="lazy"/>
-            <img className="ballon" src={ballon} alt="" loading="lazy"/>
+            <div className="dialog-wrapper">
+                <img className="imgmap" src={imgmap} alt="" loading="lazy"/>
+                <img className="MariaHabla" src={MariaHabla} alt="" loading="lazy"/>
+                <img className="ballon" src={ballon} alt="" loading="lazy"/>
+            </div>
         </section>
     )
 }

@@ -11,7 +11,7 @@ footer {
     display: flex;
     background-color: var(--color-purple);
     padding: 58px 130px;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -50,7 +50,7 @@ footer {
 }
 
 
-.container-footer2 button {
+.container-footer2 a {
     background-color: var(--color-pink);
     display: flex;
     padding: 18px 20px;
@@ -60,6 +60,7 @@ footer {
     font-size: 24px;
     color: var(--color-neutral-white);
     cursor: pointer;
+    text-decoration: none;
 }
 
 @media (max-width: 480px) {
@@ -77,18 +78,20 @@ footer {
         align-items: center;
     }
 
-    .container-footer2 button {
+    .container-footer2 a {
         width: 200px;
+        text-decoration: none;
+
     }
 
-    .list-footer-content{
+    .list-footer-content {
         display: flex;
         align-items: center;
     }
 
-   
 
-    .list-footer-content ul{
+
+    .list-footer-content ul {
         display: flex;
         flex-direction: column;
         gap: 20px;
